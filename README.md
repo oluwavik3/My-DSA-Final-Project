@@ -36,3 +36,4 @@ Microsoft Excel [Download here](https://www.microsoft.com)
 2. Chart
 3. Slicer
 
+![Amazon case study](https://github.com/user-attachments/assets/58cfc788-4000-499c-8f36-44dd2007548d)
