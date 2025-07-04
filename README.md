@@ -31,7 +31,7 @@ We were given a table called Amazon Product Review Analysis and was ask to use P
 7. Using the SLICER tool for easy filter
 8. After this was done i went through the PIVOT table to check for accuracy
 ## Tools Use
-Microsoft Excel
+Microsoft Excel [Download here](https://www.microsoft.com)
 1. Pivot Table
 2. Chart
 3. Slicer
