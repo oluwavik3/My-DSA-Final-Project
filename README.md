@@ -1,6 +1,12 @@
 # My-DSA-Final-Project Case Study 1
+## Project Topic
 Amazon Product Review Analysis
-## We were given a table called Amazon Product Review Analysis and was ask to use PIVOT table to get the following..
+## Outline 
+1. Tasks
+2. Action Taken
+3. Tools Use
+## Tasks
+We were given a table called Amazon Product Review Analysis and was ask to use PIVOT table to get the following..
 1. Average discount percentage by category
 2. Number of products that are listed under each category
 3. The total number of reviews per category
@@ -24,5 +30,9 @@ Amazon Product Review Analysis
 6. Then i move on to creating a dashboard which will give the summary of each of the PIVOT table in chart format
 7. Using the SLICER tool for easy filter
 8. After this was done i went through the PIVOT table to check for accuracy
-## 
+## Tools Use
+Microsoft Excel
+1. Pivot Table
+2. Chart
+3. Slicer
 
