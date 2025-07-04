@@ -23,7 +23,7 @@ We were given a table called Amazon Product Review Analysis and was ask to use P
 14. The top 5 products in terms of rating and number of reviews combine
 ## Actions taken
 1. I started by checking and removing the duplicate data
-2. The total number of rows was 1,465 and after removing the duplicate it became 1,384
+2. The total number of rows was 1,465 and after removing the duplicate it became 1,385
 3. Then i proceed on checking for blank rows and non was found
 4. Then i design the table to make it look attracting
 5. After which i proceed to creating the PIVOT table for each of the questions given.
